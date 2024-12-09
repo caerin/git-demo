@@ -2,7 +2,6 @@
 
 This is the first file in this repository.
 
-## Ipsum Below
+## Website Contents
 
-the quick brown fox jump over the lazy dog
-the quick brown fox
+1. index.html
