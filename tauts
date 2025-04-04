@@ -1,0 +1,131 @@
+[33mcommit 35cdc503368d21139fbb406380aa3635d4d99143[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: b61d314 3712191
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Fri Apr 4 13:32:50 2025 +0800
+
+    Merge branch 'main' of github.com:caerin/git-demo
+
+[33mcommit b61d31488696b573b2a3be446ea5234be8e2432d[m
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Fri Apr 4 13:31:31 2025 +0800
+
+    update file
+
+[33mcommit 37121919acfed6ce1bd3119e7bf0cd9562b2cd3d[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: caerin <78189748+caerin@users.noreply.github.com>
+Date:   Tue Mar 25 10:01:30 2025 +0800
+
+    add test file (#1)
+
+[33mcommit b4cb15286ce3e85d9f64dd959ad40a1189fd89d8[m
+Merge: 3cf0be3 dbc98fd
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Tue Mar 25 09:35:34 2025 +0800
+
+    add README
+
+[33mcommit dbc98fd2fc458693f4ca877150d59c2e22b4face[m
+Author: caerin <78189748+caerin@users.noreply.github.com>
+Date:   Tue Mar 25 09:26:43 2025 +0800
+
+    Initial commit
+
+[33mcommit 3cf0be32cbc46307673abd87ad243be32af3a6cc[m
+Merge: 27d0267 cf344f3
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Mon Mar 24 11:44:39 2025 +0800
+
+    Merge branch 'featureBranch'
+
+[33mcommit 27d0267a9a9812cc0ee3fd99caa3f75bb8601671[m
+Merge: f0c14ce 7696800
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Mon Mar 24 11:38:01 2025 +0800
+
+    Merge branch 'main' of github.com:caerin/git-demo
+
+[33mcommit f0c14ce1edbbd9b41693ee31f93f3a2152059312[m
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Mon Mar 24 11:36:48 2025 +0800
+
+    Revert "updating index file in github"
+    
+    This reverts commit 787f49d29cb17819cb96e93a8b89b5d2291fbd9c.
+
+[33mcommit cf344f36e904767d0ab7cb070e57b58ee044ef46[m
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Mon Mar 24 11:13:02 2025 +0800
+
+    add featurefile in repor
+
+[33mcommit 769680068ed730a93f9402436c03c48ac054542c[m
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Mon Mar 24 11:08:30 2025 +0800
+
+    Master branch commit
+
+[33mcommit 787f49d29cb17819cb96e93a8b89b5d2291fbd9c[m
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Mon Mar 24 10:52:36 2025 +0800
+
+    updating index file in github
+
+[33mcommit 2ffd065fdc74e5811990144961b31fe8698efa0c[m
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Mon Mar 24 10:22:38 2025 +0800
+
+    adding ignore file
+
+[33mcommit 14243bdb3a81d38bcc1d44b57f8a0af24ce34a28[m
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Mon Mar 24 10:19:53 2025 +0800
+
+    movinf index.htl to file web foler
+
+[33mcommit 2039d4f5a6b225b8bbc1603b2e04062940dcb556[m
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Mon Mar 24 10:13:11 2025 +0800
+
+    removing info.log"
+
+[33mcommit baabbf0848d781ad76d04433f2e963444b35aaaa[m
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Mon Mar 24 10:11:27 2025 +0800
+
+    adding info log
+
+[33mcommit 3cb98ae4acdbc7afd7276e786441a92355c9c832[m
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Mon Mar 24 10:10:46 2025 +0800
+
+    removing log files
+
+[33mcommit 4baf9617bd0290ffea92de7541a84fe6f12ec321[m
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Mon Mar 24 10:09:49 2025 +0800
+
+    adding log file to repository
+
+[33mcommit 4797b0656992d35e7d197c74198eaeb939693ee9[m
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Mon Mar 24 10:01:19 2025 +0800
+
+    A few changes for the  project
+
+[33mcommit d53b51d323abd1066438602bb622658cdc785e1e[m
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Mon Mar 24 09:57:30 2025 +0800
+
+    add additonal content in file
+
+[33mcommit cab9d88937b45eaa8a1087d18243bc62f6020a9f[m
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Mon Mar 24 09:56:42 2025 +0800
+
+    adding Ipsum below
+
+[33mcommit a0383a1db94ffa33d0bfab4f2d349a89bf9c6c4f[m
+Author: richil sinadjan <richil.sinadjan@gmail.com>
+Date:   Mon Mar 24 09:43:17 2025 +0800
+
+    my first git proect
